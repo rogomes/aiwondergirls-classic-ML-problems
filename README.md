@@ -17,17 +17,17 @@ AI Wonder Girls repository for the **Classic ML Problems** study group.
 10. Crime Prediction (August 15th 2021), by Rosana de Oliveira Gomes 
 11. Cats vs Dogs Classification (August 22nd 2021)
 12. House Prices (August 29th), by Rosana de Oliveira Gomes
-13. Bicycle Shares Analysis (August 2021) 
-14. Earth Temperature Prediction (September 2021)
-15. Exoplanets Database with SQL (September 2021)
-16. Sales Forecasting (September 2021)
-17. Secretary Problem (September 2021)
-18. Stock Prices Predictor using TimeSeries 
+13. Bicycle Shares Analysis (September 2021) 
+14. Earth Temperature Prediction (September 2021), by Rosana de Oliveira Gomes
+15. Sales Forecasting (September 2021)
+16. Exoplanets Database with SQL (September 2021), by Rosana de Oliveira Gomes
+17. Stock Prices Predictor using TimeSeries 
+18. Secretary Problem (September 2021), by Rosana de Oliveira Gomes
 19. Iris Flowers Classification (October 2021)
-20. Social Media Sentiment Analysis (October 2021) 
-21. Weather Prediction (October 2021)
-22. Music Recommendation System (October 2021)
-23. Building Docker Containers (November 2021)
-24. Auto ML Deplyoment (November 2021)
+20. Weather Prediction (October 2021), by Rosana de Oliveira Gomes 
+21. Social Media Sentiment Analysis (October 2021)
+22. Music Recommendation System (October 2021), by Rosana de Oliveira Gomes
+23. Auto ML Deplyoment (November 2021)
 25. AWS Sage Maker Deployment (November 2021)
+25. Building Docker Containers (November 2021), by Rosana de Oliveira Gomes
 26. Streamlit Dashboards (November 2021)
