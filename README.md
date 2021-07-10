@@ -7,6 +7,7 @@ AI Wonder Girls repository for the **Classic ML Problems** study group.
 [1. Monty Hall Problem (June 12th 2021), by Rosana de Oliveira Gomes](https://github.com/rogomes/aiwondergirls-classic-ML-problems/blob/main/monty_hall/MontyHall.ipynb)
 
 [2. Titanic Survival Prediction (June 20th 2021), by Deepika K](https://github.com/rogomes/aiwondergirls-classic-ML-problems/blob/main/Titanic/Titanic_final.ipynb)
+
 3. Python Programming Overview (June 27th 2021), by Erum Afzal
 4. Credit Risk Analysis (July 11th 2021), by Anju Mercian
 5. Diabetes Diagnosis (July 18th 2021), by Rosana de Oliveira Gomes
